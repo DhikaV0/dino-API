@@ -1,0 +1,204 @@
+{
+    "triassic_dinosaurs":     [
+        {
+            "id": 1,
+            "name": "Alwalkeria",
+            "description": "Alwalkeria was a small, basal saurischian dinosaur that roamed the earth during the Late Triassic period, approximately 228 to 200 million years ago. It was around 1 meter (3.3 feet) in length and had a slender, lightweight build, with an estimated weight of around 10 kilograms (22 pounds).",
+            "size": "2 meters long",
+            "weight": "50 kg",
+            "diet": "omnivore",
+            "location": "South America",
+            "image": "https://en.wikipedia.org/wiki/File:Alwalkeria_maleriensis.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Coelophysis",
+            "description": "Coelophysis was a delicately-built carnivore with a pair of slender legs bearing three-toed feet. Its pair of arms had four fingers each, although the last digits were considerably small. The head/skull of the creature bore a strong jaw lined with small but sharp and serrated teeth.",
+            "size": "3 meters long",
+            "weight": "20 kg",
+            "diet": "carnivore",
+            "location": "North America",
+            "image": "https://en.wikipedia.org/wiki/File:Coelophysis_Jeff_Martz.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Plateosaurus",
+            "description": "Plateosaurus is a genus of plateosaurid dinosaur that lived during the Late Triassic period, around 214 to 204 million years ago, in what is now Central and Northern Europe. Plateosaurus is a basal (early) sauropodomorph dinosaur, called prosauropod.",
+            "size": "8 meters long",
+            "weight": "800 kg",
+            "diet": "herbivore",
+            "location": "Europe",
+            "image": "https://en.wikipedia.org/wiki/File:Plateosaurus_engelhardti.png"
+        },
+        {
+            "id": 4,
+            "name": "Asylosaurus",
+            "description": "Asylosaurus was a species of dinosaur that existed in the late Triassic period in present day England. It is estimated to have existed 235 to 201 million years ago. It was an herbivorous type of dinosaur, a characteristic that was seen amongst most of the dinosaurs of the Mesozoic Era.",
+            "size": "2 meters long",
+            "weight": "250 kg",
+            "diet": "omnivore",
+            "location": "North America",
+            "image": "https://en.wikipedia.org/wiki/File:Asylosaurus_NT.jpg"
+        },
+        {
+            "id": 5,
+            "name": "Eoraptor",
+            "description": "Eoraptor is a genus of small, lightly built, basal sauropodomorph dinosaur. One of the earliest known dinosaurs and one of the earliest sauropodomorphs, it lived approximately 231 to 228 million years ago, during the Late Triassic in Western Gondwana, in the region that is now northwestern Argentina.",
+            "size": "1 meter long",
+            "weight": "10 kg",
+            "diet": "carnivore",
+            "location": "South America",
+            "image": "https://www.thoughtco.com/thmb/X-ysADYDqD1QvZT299j0SbMSCs0=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-678827019-58ddec103df78c5162cc4cfc.jpg"
+        },
+        {
+            "id": 6,
+            "name": "Staurikosaurus",
+            "description": "Staurikosaurus was a small theropod from the late Triassic Period, 225 million years ago - specifically the Carnian age. It is one of the earliest dinosaurs that is known. It was a bipedal carnivore that lived in what is now South America.",
+            "size": "2 meters long",
+            "weight": "12 kg",
+            "diet": "carnivore",
+            "location": "South America",
+            "image": "https://en.wikipedia.org/wiki/File:Staurikosaurus-mingau-colour.png"
+        },
+        {
+            "id": 7,
+            "name": "Pisanosaurus",
+            "description": "Pisanosaurus is an extinct genus of early dinosauriform, likely an ornithischian or silesaurid, from the Late Triassic of Argentina. It was a small, lightly built, ground-dwelling herbivore, that could grow up to an estimated 1 m (3.3 ft) long.",
+            "size": "1 meter long",
+            "weight": "2 kg",
+            "diet": "herbivore",
+            "location": "South America",
+            "image": "https://en.wikipedia.org/wiki/File:Pisanosaurus.jpg"
+        },
+        {
+            "id": 8,
+            "name": "Camposaurus",
+            "description": "Camposaurus is a genus of dinosaur from the Late Triassic period. It was a small, bipedal carnivore that lived in what is now South America. Camposaurus was a member of the theropod group of dinosaurs, which includes modern birds.",
+            "size": "2 meters long",
+            "weight": "20 kg",
+            "diet": "carnivore",
+            "location": "South America",
+            "image": "https://en.wikipedia.org/wiki/File:Camposaurus_arizonensis.png"
+        },
+        {
+            "id": 9,
+            "name": "Chindesaurus",
+            "description": "Chindesaurus is an extinct genus of basal saurischian dinosaur from the Late Triassic (213-210 million years ago) of the southwestern United States. It is known from a single species, C. bryansmalli, based on a partial skeleton recovered from Petrified Forest National Park in Arizona.",
+            "size": "3 meters long",
+            "weight": "25 kg",
+            "diet": "carnivore",
+            "location": "North America",
+            "image": "https://en.wikipedia.org/wiki/File:Chindesaurus_bryansmalli.png"
+        },
+        {
+            "id": 10,
+            "name": "Coloradisaurus",
+            "description": "Coloradisaurus is a genus of basal sauropodomorph dinosaur from the Late Triassic period of Argentina. It was a small, bipedal herbivore that lived in what is now South America. Coloradisaurus was a member of the sauropodomorph group of dinosaurs, which includes the long-necked sauropods.",
+            "size": "3 meters long",
+            "weight": "50 kg",
+            "diet": "herbivore",
+            "location": "South America",
+            "image": "https://images.fineartamerica.com/images-medium-large-5/coloradisaurus-eating-deagostiniuigscience-photo-library.jpg"
+        },
+        {
+            "id": 11,
+            "name": "Dromomeron",
+            "description": "Dromomeron (meaning 'running femur') is a genus of lagerpetid avemetatarsalian which lived around 220 to 211.9 ± 0.7 million years ago. The genus contains species known from Late Triassic-age rocks of the Southwestern United States and northwestern Argentina.",
+            "size": "1 meter long",
+            "weight": "5 kg",
+            "diet": "carnivore",
+            "location": "South America",
+            "image": "https://en.wikipedia.org/wiki/File:Dromomeron_BW.jpg"
+        },
+        {
+            "id": 12,
+            "name": "Daemosaurus",
+            "description": "Daemonosaurus is an extinct genus of possible theropod dinosaur from the Late Triassic of New Mexico. The only known fossil is a skull and neck fragments from deposits of the latest Triassic Chinle Formation at Ghost Ranch.",
+            "size": "2 meter long",    
+            "weight" : "20 kg",
+            "diet": "carnivore",
+            "location": "North America",
+            "image": "https://en.wikipedia.org/wiki/File:Daemonosaurus_chauliodus.jpg"
+        },
+        {
+            "id": 13,
+            "name": "Eocursor",
+            "description": "Eocursor is genus of basal ornithischian dinosaur that lived in what is now South Africa during the Early Jurassic. Remains of this animal have been found in the Upper Elliot Formation and it is among the most completely known early ornithischians, shedding new light on the origin of the group.",
+            "size": "1 meter long",
+            "weight": "5 kg",
+            "diet": "herbivore",
+            "location": "South Africa",
+            "image": "https://en.wikipedia.org/wiki/File:Eocursor_BW.jpg"
+        },
+        {
+            "id": 14,
+            "name": "Gojirasaurus",
+            "description": "Gojirasaurus is a genus of 'coelophysoid' theropod dinosaur from the Late Triassic of New Mexico. It is named after the giant monster movie character Godzilla (Gojira if read in japanese).",
+            "size": "5 meters long",
+            "weight": "150 kg",
+            "diet": "carnivore",
+            "location": "North America",
+            "image": "https://en.wikipedia.org/wiki/File:Gojirasaurus_BW.jpg"
+        },
+        {
+            "id": 15,
+            "name": "Lotosaurus",
+            "description": "Lotosaurus is an extinct genus of sail-backed poposauroid known from Hunan Province of central China. It lived during the Late Triassic period, around 220 million years ago. Lotosaurus was a herbivorous dinosaur that had a long neck and a large sail on its back.",
+            "size": "2 meters long",
+            "weight": "50 kg",
+            "diet": "herbivore",
+            "location": "Asia",
+            "image": "https://en.wikipedia.org/wiki/File:Lotosaurus_BW.jpg"
+        },
+        {
+            "id": 16,
+            "name": "Herrerassaurus",
+            "description": "Herrerasaurus is likely a genus of saurischian dinosaur from the Late Triassic period. Measuring 6 m (20 ft) long and weighing around 350 kg (770 lb), this genus was one of the earliest dinosaurs from the fossil record. Its name means 'Herrera's lizard', after the rancher who discovered the first specimen in 1958 in South America.",
+            "size": "6 meters long",
+            "weight": "350 kg",
+            "diet": "carnivore",
+            "location": "South America",
+            "image": "https://en.wikipedia.org/wiki/File:Herrerasaurus_ischigualastensis_Illustration.jpg"
+        },
+        {
+            "id": 17,
+            "name": "Marasuchus",
+            "description": "Marasuchus is a genus of small, bipedal dinosaur from the Late Triassic period. It was a member of the theropod group of dinosaurs, which includes modern birds. Marasuchus was a small, agile predator that lived in what is now South America.",
+            "size": "1 meter long",
+            "weight": "5 kg",
+            "diet": "carnivore",
+            "location": "South America",
+            "image": "https://en.wikipedia.org/wiki/File:Marasuchus.jpg"
+        },
+        {
+            "id": 18,
+            "name": "Liliensternus",
+            "description": "Liliensternus is an extinct genus of basal neotheropod dinosaur that lived approximately 210 million years ago during the latter part of the Triassic Period in what is now Germany. Liliensternus was a moderate-sized, bipedal, ground-dwelling carnivore, that could grow up to 5.15 m (16.9 ft) long.",
+            "size": "5 meters long",
+            "weight": "150 kg",
+            "diet": "carnivore",
+            "location": "Europe",
+            "image": "https://en.wikipedia.org/wiki/File:Liliensternus_NT.jpg"
+        },
+        {
+            "id": 19,
+            "name": "Melanorosaurus",
+            "description": "Melanorosaurus is a genus of basal sauropodomorph dinosaur that lived during the Late Triassic period. An omnivore from South Africa, it had a large body and sturdy limbs, suggesting it moved quadrupedally.",
+            "size": "8 meters long",
+            "weight": "1.300 kg",
+            "diet": "herbivore",
+            "location": "South Africa",
+            "image": "https://en.wikipedia.org/wiki/File:Melanorosaurus_readi_steveoc.jpg"
+        },
+        {
+            "id": 20,
+            "name": "Pantydraco",
+            "description": "Pantydraco is a genus of basal sauropodomorph dinosaur from the Late Triassic of the United Kingdom (Wales). It is based on a partial juvenile skeleton once thought to belong to Thecodontosaurus. Pantydraco was a small, bipedal omnivore that lived in what is now Europe.",
+            "size": "1 meters long",
+            "weight": "50 kg",
+            "diet": "herbivore",
+            "location": "Europe",
+            "image": "https://en.wikipedia.org/wiki/File:Pantydraco_BW.jpg"
+        }
+                ]
+}

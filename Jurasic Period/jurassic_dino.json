@@ -1,0 +1,104 @@
+{
+    "jurassic_dinosaurs":     [
+        {
+            "id": 1,
+            "name": "Allosaurus",
+            "description": "Allosaurus is an extinct genus of large theropod dinosaur that lived 155 to 145 million years ago during the Late Jurassic period. The name 'Allosaurus' means 'different lizard', alluding to its unique concave vertebrae. It was one of the largest predators of its time, with a large skull and sharp teeth.",
+            "size": "9 meters long",
+            "weight": "2.3 tons",
+            "diet": "Carnivore",
+            "location": "North America, Europe, Africa",
+            "image": "https://i0.wp.com/onlydinosaurs.com/wp-content/uploads/2021/10/An-orange-Allosaurs-is-walking-on-the-grass-1536x864.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Apatosaurus",
+            "description": "Apatosaurus is a genus in the family Diplodocidae. It is one of the more basal genera, with only Amphicoelias and possibly a new, unnamed genus more primitive. Although the subfamily Apatosaurinae was named in 1929, the group was not used validly until an extensive 2015 study.",
+            "size": "23 meters long",
+            "weight": "20 tons",
+            "diet": "Herbivore",
+            "location": "North America",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/4/44/Apatosaurus_louisae_by_durbed.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Brachiosaurus",
+            "description": "Brachiosaurus is a typical sauropod, with a long neck and tail, and an enormous body supported by four tree-trunk-like legs. The first Brachiosaurus specimen was discovered in 1900 in Colorado, USA, by American paleontologist Elmer S. Riggs.",
+            "size": "22 meters long",
+            "weight": "50 tons",
+            "diet": "Herbivore",
+            "location": "North America, Africa",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/0/07/Brachiosaurus_altithorax_side_profile.png"
+        },
+        {
+            "id": 4,
+            "name": "Stegosaurus",
+            "description": "Stegosaurus is a genus of herbivorous, four-legged, armored dinosaur from the Late Jurassic, characterized by the distinctive kite-shaped upright plates along their backs and spikes on their tails. The name 'Stegosaurus' means 'roof lizard', referring to the plates that resemble a roof.",
+            "size": "7 meters long",
+            "weight": "4 tons",
+            "diet": "Herbivore",
+            "location": "North America, Europe, Asia",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Stegosaurus_stenops_Life_Reconstruction.png"
+        },
+        {
+            "id": 5,
+            "name": "Diplodocus",
+            "description": "Diplodocus is an extinct genus of diplodocid sauropod dinosaurs known from the Late Jurassic of North America. The first fossils of Diplodocus were discovered in 1877 by S. W. Williston. The name 'Diplodocus' means 'double beam', referring to the double-beamed chevron bones found in its tail.",
+            "size": "25 meters long",
+            "weight": "13 tons",
+            "diet": "Herbivore",
+            "location": "North America",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/0/08/Diplodocus_carnegii.jpg"
+        },
+        {
+            "id": 6,
+            "name": "Archaeopteryx",
+            "description": "Archaeopteryx lived in the Late Jurassic, around 150 million years ago, in what is now southern Germany. It is considered a transitional fossil between non-avian dinosaurs and modern birds, showcasing both reptilian and avian features.",
+            "size": "0.5 meters long",
+            "weight": "1 kg",
+            "diet": "Carnivore",
+            "location": "Europe",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Archaeopteryx_UDL.png/1920px-Archaeopteryx_UDL.png"
+        },
+        {
+            "id": 7,
+            "name": "Brontosaurus",
+            "description": "Brontosaurus is a genus of herbivorous sauropod dinosaur that lived in present-day United States during the Late Jurassic. Originally considered a synonym of Apatosaurus, it was revalidated as a distinct genus in a 2015 study. It was first described by paleontologist Othniel Charles Marsh in 1879.",
+            "size": "22 meters long",
+            "weight": "16 tons",
+            "diet": "Herbivore",
+            "location": "North America",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Brontosaurus_by_Tom_Parker.png/1920px-Brontosaurus_by_Tom_Parker.png"
+        },
+        {
+            "id": 8,
+            "name": "Camarasaurus",
+            "description": "Camarasaurus is a genus of sauropod dinosaur from the Late Jurassic period in North America. It was one of the most common sauropods in the Morrison Formation, characterized by its boxy skull and spoon-shaped teeth.",
+            "size": "18 meters long",
+            "weight": "45 tons",
+            "diet": "Herbivore",
+            "location": "North America",
+            "image": "https://en.wikipedia.org/wiki/Camarasaurus#/media/File:Camarasaurs1.jpg"
+        },
+        {
+            "id": 9,
+            "name": "Camptosaurus",
+            "description": "Camptosaurus is a genus of herbivorous ornithopod dinosaur that lived during the Late Jurassic period, around 150 million years ago. It had a beak-like mouth adapted for cropping plants and could walk both on two legs and all fours. Its name means 'bent lizard', referring to the curved bones in its hips.",
+            "size": "6 meters long",
+            "weight": "1 ton",
+            "diet": "Herbivore",
+            "location": "North America, Europe",
+            "image": "https://en.wikipedia.org/wiki/Camptosaurus#/media/File:Camptosaurus.jpg"
+        },          
+        {
+            "id": 10,
+            "name": "Ceratosaurus",
+            "description": "Ceratosaurus was a medium-sized theropod dinosaur that lived during the Late Jurassic period. It is known for its distinctive nasal horn and two small horn-like ridges above its eyes. Its deep jaws housed long, blade-like teeth, making it a formidable predator.",
+            "size": "6 meters long",
+            "weight": "600 kg",
+            "diet": "Carnivore",
+            "location": "North America",
+            "image": "https://en.wikipedia.org/wiki/Ceratosaurus#/media/File:Ceratosaurus_nasicornis_DB.jpg"
+        }
+            ]
+}
