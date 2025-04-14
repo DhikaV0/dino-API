@@ -99,6 +99,56 @@
             "diet": "Carnivore",
             "location": "North America",
             "image": "https://en.wikipedia.org/wiki/Ceratosaurus#/media/File:Ceratosaurus_nasicornis_DB.jpg"
+        },
+        {
+            "id": 11,
+            "name": "Compsognathus",
+            "description": "Compsognathus is a genus of small, bipedal, carnivorous theropod dinosaur. Members of its single species Compsognathus longipes could grow to around the size of a chicken. They lived about 150 million years ago, during the Tithonian age of the late Jurassic period, in what is now Europe.",
+            "size": "1 meter long",
+            "weight": "2 kg",
+            "diet": "Carnivore",
+            "location": "Europe",
+            "image": "https://en.wikipedia.org/wiki/Compsognathus#/media/File:Compsognathus_BW.jpg"
+        },
+        {
+            "id": 12,
+            "name": "Dilophosaurus",
+            "description": "Dilophosaurus is a genus of theropod dinosaurs that lived in what is now North America during the Early Jurassic, about 186 million years ago. Three skeletons were discovered in northern Arizona in 1940, and the two best preserved were collected in 1942.",
+            "size": "7 meters long",
+            "weight": "400 kg",
+            "diet": "Carnivore",
+            "location": "North America",
+            "image": "https://en.wikipedia.org/wiki/Dilophosaurus#/media/File:Dilophosaurus_wetherilli.PNG"
+        },
+        {
+            "id": 13,
+            "name": "Huayangosaurus",
+            "description": "Huayangosaurus is a genus of stegosaurian dinosaur from the Middle Jurassic of China. It lived during the Bathonian to Callovian stages, around 165 million years ago, some 20 million years before its famous relative, Stegosaurus appeared in North America. At only approximately 4 metres (13 ft) long, it was also much smaller than its famous cousin.",
+            "size": "4 meters long",
+            "weight": "500 kg",
+            "diet": "Herbivore",
+            "location": "Asia",
+            "image": "https://en.wikipedia.org/wiki/Huayangosaurus#/media/File:Huayangosaurus_BW.jpg"
+        },
+        {
+            "id": 14,
+            "name": "Lesothosaurus",
+            "description": "Lesothosaurus is a monospecific genus of ornithischian dinosaur that lived during the Early Jurassic in what is now South Africa and Lesotho. The genus has only one valid species, Lesothosaurus diagnosticus. Lesothosaurus is one of the most completely-known early ornithischians, based on numerous skull and postcranial fossils from the Upper Elliot Formation.",
+            "size": "2 meters long",
+            "weight": "15 kg",
+            "diet": "Herbivore",
+            "location": "Africa",
+            "image": "https://en.wikipedia.org/wiki/Lesothosaurus#/media/File:Lesothosaurus_diagnosticus.png"
+        },
+        {
+            "id": 15,
+            "name": "Kentrosaurus",
+            "description": "Kentrosaurus is a genus of stegosaurid dinosaur from the Late Jurassic in Lindi Region of Tanzania. The type species is K. aethiopicus, named and described by German palaeontologist Edwin Hennig in 1915. Kentrosaurus was a relatively small stegosaur, with a length of about 4 meters (13 ft) and a weight of about 1 ton.",
+            "size": "4 meters long",
+            "weight": "1 ton",
+            "diet": "Herbivore",
+            "location": "Africa",
+            "image": "https://en.wikipedia.org/wiki/Kentrosaurus#/media/File:Kentrosaurus_aethiopicus.png"
         }
             ]
 }
