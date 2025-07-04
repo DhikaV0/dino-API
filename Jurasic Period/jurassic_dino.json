@@ -1,5 +1,5 @@
 {
-    "jurassic_dinosaurs":     [
+    "jurassic_dinosaurs": [
         {
             "id": 1,
             "name": "Allosaurus",
@@ -149,6 +149,49 @@
             "diet": "Herbivore",
             "location": "Africa",
             "image": "https://en.wikipedia.org/wiki/Kentrosaurus#/media/File:Kentrosaurus_aethiopicus.png"
+        },
+        {
+            "id": 16,
+            "name": "Megalosaurus",
+            "description": "Megalosaurus is an extinct genus of large carnivorous theropod dinosaurs of the Middle Jurassic Epoch of southern England. Although fossils from other areas have been assigned to the genus, the only certain remains of Megalosaurus come from Oxfordshire and date to the late Middle Jurassic.",
+            "size": "6 meters long",
+            "weight": "1 ton",
+            "diet": "Carnivore",
+            "location": "Southern England",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Megalosaurus_dinosaur.png/500px-Megalosaurus_dinosaur.png"
+        },
+        {
+            "id": 17,
+            "name": "Sarcosaurus",
+            "description": "Sarcosaurus is a genus of basal neotheropod dinosaur, roughly 3.5 metres long. It lived in what is now England and maybe Ireland and Scotland during the Hettangian-Sinemurian stages of the Early Jurassic, about 199-196 million years ago.",
+            "size": "3.5 meters long",
+            "weight": "55 kg",
+            "diet": "Carnivore",
+            "location": "England",
+            "image": "https://en.wikipedia.org/wiki/File:Sarcosaurus_life_restoration.jpg"
+        },
+        {
+            "id": 18,
+            "name": "Vulcanodon",
+            "description": "Vulcanodon is an extinct genus of sauropod dinosaur from the Early Jurassic Uppermost Forest Sandstone of southern Africa. The only known species is V. karibaensis. Discovered in 1969 in Zimbabwe, it was regarded as the earliest-known sauropod for decades, and is still one of the most primitive sauropods that has been discovered.",
+            "size": "6 meters long",
+            "weight": "3 tons",
+            "diet": "Herbivore",
+            "location": "Africa",
+            "image": "https://www.activewild.com/wp-content/uploads/2018/12/Vulcanodon.jpg"
+        },
+        {
+            "id": 19,
+            "name": "Saurophaganax",
+            "description": "Saurophaganax is a dubious, chimeric genus of large saurischian dinosaur, possibly a sauropod, from the Late Jurassic Morrison Formation of Oklahoma, United States.",
+            "size": "10 meters long",
+            "weight": "3 tons",
+            "diet": "Carnivore",
+            "location": "North America",
+            "image": "https://www.paleontologyworld.com/sites/default/files/Saurophaganax%20%20BBC%20Planet%20Dinosaur.png"
+        },
+        {
+            
         }
-            ]
+    ]
 }
