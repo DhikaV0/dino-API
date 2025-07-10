@@ -4,25 +4,12 @@ Welcome to the **Dinosaur Era API**, a public JSON-based collection of dinosaurs
 
 ## 🌍 Available Eras
 
-Each era has its own JSON file containing dinosaur data. You can access them directly via [GitHub Pages](https://yourusername.github.io/dino-api/) (replace `yourusername` with your GitHub username).
-
 | Era         | JSON URL                                                                                            |
 |-------------|-----------------------------------------------------------------------------------------------------|
 | Triassic    | [`/triassic/triassic.json`](https://dhikav0.github.io/dino-API/triassic/triassic_dino.json)         |
-| Jurassic    | [`/jurassic/jurassic.json`](https://dhikav0.github.io/dino-API/jurassic/jurassic_dino.json)         |
 | Cretaceous  | [`/cretaceous/cretaceous.json`](https://dhikav0.github.io/dino-API/cretaceous/cretaceous_dino.json) |
-
+| Jurassic    | [`/jurassic/jurassic.json`](https://dhikav0.github.io/dino-API/jurassic/jurassic_dino.json)         |
 > ℹ️ JSON files include basic info such as name, description, size, diet, estimated weight, time period, fossil location, and image source.
-
-## 📁 Folder Structure
-dino-api/
-├── triassic/
-│ └── triassic.json
-├── jurassic/
-│ └── jurassic.json
-├── cretaceous/
-│ └── cretaceous.json
-└── README.md
 
 ## 🧠 Data Usage
 
@@ -44,7 +31,7 @@ All descriptive texts have been rewritten or paraphrased for clarity and consist
 You're welcome to use this dataset as long as you include attribution like:
 
 > Dinosaur data sourced from [Dinosaur Era API](https://yourusername.github.io/dino-api)  
-> Image sources: Wikipedia/Wikimedia Commons (see JSON `image` field)
+> Image sources: Wikipedia/Wikimedia Commons
 
 ## 🚀 Contribution
 
