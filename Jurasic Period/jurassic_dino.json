@@ -191,7 +191,14 @@
             "image": "https://www.paleontologyworld.com/sites/default/files/Saurophaganax%20%20BBC%20Planet%20Dinosaur.png"
         },
         {
-            
+            "id": 20,
+            "name": "Metriacanthosaurus",
+            "description": "Metriacanthosaurus is a genus of metriacanthosaurid dinosaur from the Oxford Clay Formation of England, dating to the Late Jurassic period, about 160 million years ago. It is the only named metriacanthosaurid known outside of Asia.",
+            "size": "8 meters long",
+            "weight": "1.5 tons",
+            "diet": "Carnivore",
+            "location": "Europe",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Metriacanthosaurus.jpg/500px-Metriacanthosaurus.jpg"
         }
     ]
 }

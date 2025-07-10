@@ -99,6 +99,109 @@
             "diet": "Carnivore",
             "location": "Brazil",
             "image": "https://en.wikipedia.org/wiki/Irritator#/media/File:Irritator_challengeri_by_PaleoGeek.png/2"
+        },
+        {
+            "id": 11,
+            "name": "Giganotosaurus",
+            "description": "Giganotosaurus is a genus of large theropod dinosaur that lived in what is now Argentina, during the early Cenomanian age of the Late Cretaceous period, approximately 99.6 to 95 million years ago.",
+            "size": "12 meters long",
+            "weight": "8 tons",
+            "diet": "Carnivore",
+            "location": "Argentina",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Giganotos_Db.jpg/500px-Giganotos_Db.jpg"
+        },
+        {
+            "id": 12,
+            "name": "Mapusaurus",
+            "description": "Mapusaurus is a genus of giant carcharodontosaurid carnosaurian dinosaur that lived in Argentina during the Turonian age of the Late Cretaceous. Mapusaurus was excavated between 1997 and 2001, by the Argentinian-Canadian Dinosaur Project, from an exposure of the Huincul Formation at Cañadón del Gato. It was described and named by paleontologists Rodolfo Coria and Phil Currie in 2006.",
+            "size": "12 meters long",
+            "weight": "4 tons",
+            "diet": "Carnivore",
+            "location": "Argentina",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Mapusaurus_Roseae_restoration.png/500px-Mapusaurus_Roseae_restoration.png"
+        },
+        {
+            "id": 13,
+            "name": "Therizinosaurus",
+            "description": "Therizinosaurus is a genus of very large therizinosaurid dinosaurs that lived in Asia during the Late Cretaceous period in what is now the Nemegt Formation around 70 million years ago. It contains a single species, Therizinosaurus cheloniformis.",
+            "size": "10 meters long",
+            "weight": "5 tons",
+            "diet": "Herbivore",
+            "location": "Mongolia",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Therizinosaurus_Restoration.png/500px-Therizinosaurus_Restoration.png"
+        },
+        {
+            "id": 14,
+            "name": "Deinocheirus",
+            "description": "Deinocheirus is a genus of large ornithomimosaur that lived during the Late Cretaceous around 70 million years ago. In 1965, a pair of large arms, shoulder girdles, and a few other bones of a new dinosaur were first discovered in the Nemegt Formation of Mongolia.",
+            "size": "11 meters long",
+            "weight": "6 tons",
+            "diet": "Omnivore",
+            "location": "Mongolia",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Hypothetical_Deinocheirus.jpg/500px-Hypothetical_Deinocheirus.jpg"
+        },
+        {
+            "id": 15,
+            "name": "Majungasaurus",
+            "description": "Majungasaurus is a genus of abelisaurid theropod dinosaur that lived in Madagascar from 70 to 66 million years ago, at the end of the Cretaceous Period, making it one of the last-known non-avian dinosaurs that went extinct during the Cretaceous-Paleogene extinction event.",
+            "size": "6 meters long",
+            "weight": "1 tons",
+            "diet": "Carnivore",
+            "location": "Madagascar",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Majungasaurus_size_reference.png/500px-Majungasaurus_size_reference.png"
+        },
+
+
+
+        {
+            "id": 16,
+            "name": "Parasaurolophus",
+            "description": "Parasaurolophus is a genus of hadrosaurid 'duck-billed' dinosaur that lived in what is now western North America and possibly Asia during the Late Cretaceous period, about 76.9-73.5 million years ago.",
+            "size": "10 meters long",
+            "weight": "5 tons",
+            "diet": "Herbivore",
+            "location": "North America",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Parasaurolophuspic_steveoc.jpg/500px-Parasaurolophuspic_steveoc.jpg"
+        },
+        {
+            "id": 17,
+            "name": "Pteranodon",
+            "description": "Pteranodon is a genus of pterosaur that included some of the largest known flying reptiles, with P. longiceps having a wingspan of over 6 m. They lived during the late Cretaceous geological period of North America in present-day Kansas, Nebraska, Wyoming, South Dakota and Alabama.",
+            "size": "5 meters wingspan",
+            "weight": "50 kg",
+            "diet": "Carnivore (fish)",
+            "location": "Europe",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Pteranodon_longiceps_mmartyniuk_wiki.png/500px-Pteranodon_longiceps_mmartyniuk_wiki.png"
+        },
+        {
+            "id": 18,
+            "name": "Baryonyx",
+            "description": "Baryonyx is a genus of theropod dinosaur which lived in the Barremian stage of the Early Cretaceous period, about 130-125 million years ago. The first skeleton was discovered in 1983 in the Smokejack Clay Pit, of Surrey, England, in sediments of the Weald Clay Formation, and became the holotype specimen of Baryonyx walkeri, named by palaeontologists Alan J. Charig and Angela C. Milner in 1986.",
+            "size": "9 meters long",
+            "weight": "1.5 tons",
+            "diet": "Carnivore (fish)",
+            "location": "England",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Baryonyx_walkeri_restoration.jpg/500px-Baryonyx_walkeri_restoration.jpg"
+        },
+        {
+            "id": 19,
+            "name": "Pinacosaurus",
+            "description": "Pinacosaurus is a genus of ankylosaurid thyreophoran dinosaur that lived in Asia during the Late Cretaceous, mainly in Mongolia and China. The first remains of the genus were found in 1923, and the type species Pinacosaurus grangeri was named in 1933. Pinacosaurus mephistocephalus named in 1999, is a second possibly valid species differing from the type species in details of the skull armour.",
+            "size": "4 meters long",
+            "weight": "2 tons",
+            "diet": "Herbivore",
+            "location": "Mongolia",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Pinacosaurus_Jack_Wood_2017_flipped_transparent.png/500px-Pinacosaurus_Jack_Wood_2017_flipped_transparent.png"
+        },
+        {
+            "id": 20,
+            "name": "Rajasaurus",
+            "description": "Rajasaurus is a genus of carnivorous abelisaurid theropod dinosaur from the Late Cretaceous of India, containing one species: Rajasaurus narmadensis. The bones were excavated from the Lameta Formation in the Gujarat state of Western India, probably inhabiting what is now the Narmada River Valley.",
+            "size": "11 meters long",
+            "weight": "4 tons",
+            "diet": "Carnivore",
+            "location": "Western India",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Rajasaurus_restoration.jpg/500px-Rajasaurus_restoration.jpg"
         }
     ]
 }
