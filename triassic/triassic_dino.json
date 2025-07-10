@@ -1,0 +1,204 @@
+{
+  "triassic_dinosaurs": [
+    {
+      "id": 1,
+      "name": "Alwalkeria",
+      "description": "Alwalkeria was a small, agile saurischian dinosaur from the Late Triassic, known for its slender build. Living approximately 228 to 200 million years ago, it measured around 1 meter long and weighed about 10 kilograms, believed to have been an omnivore.",
+      "size": "1 meter long",
+      "weight": "10 kg",
+      "diet": "omnivore",
+      "location": "India (formerly South America in Gondwana)",
+      "image": "https://en.wikipedia.org/wiki/File:Alwalkeria_maleriensis.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Asylosaurus",
+      "description": "Hailing from the Late Triassic of England, Asylosaurus was an early herbivorous dinosaur that existed between 235 to 201 million years ago. It was a relatively small dinosaur, about 2 meters long and weighing around 250 kg.",
+      "size": "2 meters long",
+      "weight": "250 kg",
+      "diet": "herbivore",
+      "location": "Europe (England)",
+      "image": "https://en.wikipedia.org/wiki/File:Asylosaurus_NT.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Camposaurus",
+      "description": "Camposaurus was a swift, bipedal carnivore from the Late Triassic of North America. As an early member of the theropod group, it measured about 2 meters in length and weighed approximately 20 kg.",
+      "size": "2 meters long",
+      "weight": "20 kg",
+      "diet": "carnivore",
+      "location": "North America",
+      "image": "https://en.wikipedia.org/wiki/File:Camposaurus_arizonensis.png"
+    },
+    {
+      "id": 4,
+      "name": "Chindesaurus",
+      "description": "This basal saurischian dinosaur, Chindesaurus, lived in the Late Triassic southwestern United States, around 213-210 million years ago. Known from a partial skeleton, this carnivore was about 3 meters long and weighed roughly 25 kg.",
+      "size": "3 meters long",
+      "weight": "25 kg",
+      "diet": "carnivore",
+      "location": "North America",
+      "image": "https://en.wikipedia.org/wiki/File:Chindesaurus_bryansmalli.png"
+    },
+    {
+      "id": 5,
+      "name": "Coelophysis",
+      "description": "Coelophysis was a slender and agile carnivore of the Late Triassic, characterized by its three-toed feet and four-fingered hands. Its strong jaw, lined with sharp, serrated teeth, made it an effective predator. It was about 3 meters long and weighed 20 kg.",
+      "size": "3 meters long",
+      "weight": "20 kg",
+      "diet": "carnivore",
+      "location": "North America",
+      "image": "https://en.wikipedia.org/wiki/File:Coelophysis_Jeff_Martz.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Coloradisaurus",
+      "description": "An early sauropodomorph from the Late Triassic of Argentina, Coloradisaurus was a bipedal herbivore. This dinosaur, a distant relative of the long-necked sauropods, reached about 3 meters in length and weighed around 50 kg.",
+      "size": "3 meters long",
+      "weight": "50 kg",
+      "diet": "herbivore",
+      "location": "South America",
+      "image": "https://images.fineartamerica.com/images-medium-large-5/coloradisaurus-eating-deagostiniuigscience-photo-library.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Daemonosaurus",
+      "description": "Daemonosaurus, a probable theropod from the Late Triassic of New Mexico, is primarily known from a skull and neck fragments. This carnivore was estimated to be around 2 meters long and weigh about 20 kg.",
+      "size": "2 meters long",
+      "weight": "20 kg",
+      "diet": "carnivore",
+      "location": "North America",
+      "image": "https://en.wikipedia.org/wiki/File:Daemonosaurus_chauliodus.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Dromomeron",
+      "description": "Dromomeron, meaning 'running femur', was a small, swift avemetatarsalian from the Late Triassic. Found in both the Southwestern United States and northwestern Argentina, this carnivore was about 1 meter long and weighed 5 kg.",
+      "size": "1 meter long",
+      "weight": "5 kg",
+      "diet": "carnivore",
+      "location": "North America, South America",
+      "image": "https://en.wikipedia.org/wiki/File:Dromomeron_BW.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Eocursor",
+      "description": "Eocursor, an early ornithischian dinosaur, lived in South Africa during the Late Triassic. As one of the most complete early ornithischians discovered, it provides key insights into the group's origins. It was a small herbivore, around 1 meter long and weighing 5 kg.",
+      "size": "1 meter long",
+      "weight": "5 kg",
+      "diet": "herbivore",
+      "location": "South Africa",
+      "image": "https://en.wikipedia.org/wiki/File:Eocursor_BW.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Eoraptor",
+      "description": "Eoraptor was a small, lightly built basal sauropodomorph, considered one of the earliest known dinosaurs. Living in Argentina during the Late Triassic, this swift carnivore was about 1 meter long and weighed a mere 10 kg.",
+      "size": "1 meter long",
+      "weight": "10 kg",
+      "diet": "carnivore",
+      "location": "South America",
+      "image": "https://www.thoughtco.com/thmb/X-ysADYDqD1QvZT299j0SbMSCs0=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-678827019-58ddec103df78c5162cc4cfc.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Gojirasaurus",
+      "description": "Named after the iconic monster Godzilla, Gojirasaurus was a large 'coelophysoid' theropod from the Late Triassic of New Mexico. This imposing carnivore was around 5 meters long and weighed about 150 kg.",
+      "size": "5 meters long",
+      "weight": "150 kg",
+      "diet": "carnivore",
+      "location": "North America",
+      "image": "https://en.wikipedia.org/wiki/File:Gojirasaurus_BW.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Herrerasaurus",
+      "description": "Herrerasaurus, meaning 'Herrera's lizard', was one of the earliest known dinosaurs, living in South America during the Late Triassic. This formidable carnivore measured around 6 meters long and weighed approximately 350 kg.",
+      "size": "6 meters long",
+      "weight": "350 kg",
+      "diet": "carnivore",
+      "location": "South America",
+      "image": "https://en.wikipedia.org/wiki/File:Herrerasaurus_ischigualastensis_Illustration.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Liliensternus",
+      "description": "Liliensternus was a moderate-sized, bipedal carnivore from the Late Triassic of Germany, living approximately 210 million years ago. This ground-dwelling neotheropod could reach lengths of over 5 meters and weigh about 150 kg.",
+      "size": "5 meters long",
+      "weight": "150 kg",
+      "diet": "carnivore",
+      "location": "Europe",
+      "image": "https://en.wikipedia.org/wiki/File:Liliensternus_NT.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Lotosaurus",
+      "description": "Lotosaurus was a distinctive sail-backed poposauroid from the Late Triassic of central China. This herbivorous dinosaur, living around 220 million years ago, was characterized by its long neck and prominent back sail. It was about 2 meters long and weighed 50 kg.",
+      "size": "2 meters long",
+      "weight": "50 kg",
+      "diet": "herbivore",
+      "location": "Asia",
+      "image": "https://en.wikipedia.org/wiki/File:Lotosaurus_BW.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Marasuchus",
+      "description": "Marasuchus was a small, agile bipedal carnivore from the Late Triassic of South America. As an early theropod, it was a fast predator, measuring about 1 meter long and weighing around 5 kg.",
+      "size": "1 meter long",
+      "weight": "5 kg",
+      "diet": "carnivore",
+      "location": "South America",
+      "image": "https://en.wikipedia.org/wiki/File:Marasuchus.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Melanorosaurus",
+      "description": "Melanorosaurus was a large, basal sauropodomorph from the Late Triassic of South Africa. This robust herbivore, measuring around 8 meters long and weighing 1300 kg, likely moved on all fours due to its sturdy limbs.",
+      "size": "8 meters long",
+      "weight": "1300 kg",
+      "diet": "herbivore",
+      "location": "South Africa",
+      "image": "https://en.wikipedia.org/wiki/File:Melanorosaurus_readi_steveoc.jpg"
+    },
+    {
+      "id": 17,
+      "name": "Pantydraco",
+      "description": "Pantydraco was a small, bipedal herbivore from the Late Triassic of Wales. Once thought to be a juvenile Thecodontosaurus, this basal sauropodomorph was around 1 meter long and weighed 50 kg.",
+      "size": "1 meter long",
+      "weight": "50 kg",
+      "diet": "herbivore",
+      "location": "Europe",
+      "image": "https://en.wikipedia.org/wiki/File:Pantydraco_BW.jpg"
+    },
+    {
+      "id": 18,
+      "name": "Pisanosaurus",
+      "description": "Pisanosaurus was a small, lightly built herbivore from the Late Triassic of Argentina. This early dinosauriform, possibly an ornithischian, lived on the ground and could grow up to 1 meter long, weighing about 2 kg.",
+      "size": "1 meter long",
+      "weight": "2 kg",
+      "diet": "herbivore",
+      "location": "South America",
+      "image": "https://en.wikipedia.org/wiki/File:Pisanosaurus.jpg"
+    },
+    {
+      "id": 19,
+      "name": "Plateosaurus",
+      "description": "Plateosaurus was a prominent prosauropod (early sauropodomorph) from the Late Triassic of Central and Northern Europe. Living around 214 to 204 million years ago, this herbivore was a large dinosaur, reaching 8 meters in length and weighing 800 kg.",
+      "size": "8 meters long",
+      "weight": "800 kg",
+      "diet": "herbivore",
+      "location": "Europe",
+      "image": "https://en.wikipedia.org/wiki/File:Plateosaurus_engelhardti.png"
+    },
+    {
+      "id": 20,
+      "name": "Staurikosaurus",
+      "description": "Staurikosaurus was an early, small theropod from the Late Triassic (Carnian age) of South America. This bipedal carnivore lived about 225 million years ago, measuring 2 meters long and weighing 12 kg.",
+      "size": "2 meters long",
+      "weight": "12 kg",
+      "diet": "carnivore",
+      "location": "South America",
+      "image": "https://en.wikipedia.org/wiki/File:Staurikosaurus-mingau-colour.png"
+    }
+  ]
+}

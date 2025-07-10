@@ -1,0 +1,204 @@
+{
+  "jurassic_dinosaurs": [
+    {
+      "id": 1,
+      "name": "Allosaurus",
+      "description": "Allosaurus was a formidable large theropod from the Late Jurassic (155-145 million years ago), known across North America, Europe, and Africa. Its name, 'different lizard', refers to its unique concave vertebrae. This carnivore was one of the dominant predators of its time, reaching 9 meters long and weighing 2.3 tons.",
+      "size": "9 meters long",
+      "weight": "2.3 tons",
+      "diet": "carnivore",
+      "location": "North America, Europe, Africa",
+      "image": "https://i0.wp.com/onlydinosaurs.com/wp-content/uploads/2021/10/An-orange-Allosaurs-is-walking-on-the-grass-1536x864.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Apatosaurus",
+      "description": "Apatosaurus, a genus within the Diplodocidae family, was a large herbivorous sauropod from the Late Jurassic of North America. Though once considered synonymous with Brontosaurus, it was revalidated as distinct in 2015. It measured about 23 meters long and weighed 20 tons.",
+      "size": "23 meters long",
+      "weight": "20 tons",
+      "diet": "herbivore",
+      "location": "North America",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/44/Apatosaurus_louisae_by_durbed.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Archaeopteryx",
+      "description": "Archaeopteryx, a crucial transitional fossil, lived in what is now southern Germany during the Late Jurassic, around 150 million years ago. This small carnivore, about 0.5 meters long and weighing 1 kg, exhibited a fascinating mix of reptilian and avian features, providing insights into bird evolution.",
+      "size": "0.5 meters long",
+      "weight": "1 kg",
+      "diet": "carnivore",
+      "location": "Europe",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Archaeopteryx_UDL.png/1920px-Archaeopteryx_UDL.png"
+    },
+    {
+      "id": 4,
+      "name": "Brachiosaurus",
+      "description": "Brachiosaurus was a classic long-necked sauropod from the Late Jurassic of North America and Africa. Characterized by its long neck and sturdy, tree-trunk-like legs, this herbivore was an enormous creature, reaching 22 meters in length and weighing 50 tons.",
+      "size": "22 meters long",
+      "weight": "50 tons",
+      "diet": "herbivore",
+      "location": "North America, Africa",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/07/Brachiosaurus_altithorax_side_profile.png"
+    },
+    {
+      "id": 5,
+      "name": "Brontosaurus",
+      "description": "Brontosaurus was a large herbivorous sauropod that roamed the United States during the Late Jurassic. Originally grouped with Apatosaurus, a 2015 study confirmed its distinct genus. This massive plant-eater measured 22 meters long and weighed 16 tons.",
+      "size": "22 meters long",
+      "weight": "16 tons",
+      "diet": "herbivore",
+      "location": "North America",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Brontosaurus_by_Tom_Parker.png/1920px-Brontosaurus_by_Tom_Parker.png"
+    },
+    {
+      "id": 6,
+      "name": "Camarasaurus",
+      "description": "Camarasaurus was one of the most common sauropods in the Morrison Formation of Late Jurassic North America. Known for its distinctive boxy skull and spoon-shaped teeth, this herbivore reached 18 meters long and weighed 45 tons.",
+      "size": "18 meters long",
+      "weight": "45 tons",
+      "diet": "herbivore",
+      "location": "North America",
+      "image": "https://en.wikipedia.org/wiki/Camarasaurus#/media/File:Camarasaurs1.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Camptosaurus",
+      "description": "Camptosaurus was a herbivorous ornithopod from the Late Jurassic, living around 150 million years ago in North America and Europe. This dinosaur, meaning 'bent lizard', had a beak-like mouth for cropping plants and could walk on two or four legs. It was about 6 meters long and weighed 1 ton.",
+      "size": "6 meters long",
+      "weight": "1 ton",
+      "diet": "herbivore",
+      "location": "North America, Europe",
+      "image": "https://en.wikipedia.org/wiki/Camptosaurus#/media/File:Camptosaurus.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Ceratosaurus",
+      "description": "Ceratosaurus was a medium-sized theropod from the Late Jurassic, recognized by its prominent nasal horn and two smaller horns above its eyes. Its deep jaws with blade-like teeth made this 6-meter-long, 600 kg carnivore a formidable predator in North America.",
+      "size": "6 meters long",
+      "weight": "600 kg",
+      "diet": "carnivore",
+      "location": "North America",
+      "image": "https://en.wikipedia.org/wiki/Ceratosaurus#/media/File:Ceratosaurus_nasicornis_DB.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Compsognathus",
+      "description": "Compsognathus was a tiny, bipedal carnivorous theropod from the Late Jurassic of Europe, living around 150 million years ago. This chicken-sized dinosaur, about 1 meter long and weighing 2 kg, was a swift hunter of small prey.",
+      "size": "1 meter long",
+      "weight": "2 kg",
+      "diet": "carnivore",
+      "location": "Europe",
+      "image": "https://en.wikipedia.org/wiki/Compsognathus#/media/File:Compsognathus_BW.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Dilophosaurus",
+      "description": "Dilophosaurus was a distinctive theropod from the Early Jurassic of North America, living about 186 million years ago. Known for its two prominent crests on its head, this carnivore was around 7 meters long and weighed 400 kg.",
+      "size": "7 meters long",
+      "weight": "400 kg",
+      "diet": "carnivore",
+      "location": "North America",
+      "image": "https://en.wikipedia.org/wiki/Dilophosaurus#/media/File:Dilophosaurus_wetherilli.PNG"
+    },
+    {
+      "id": 11,
+      "name": "Diplodocus",
+      "description": "Diplodocus, meaning 'double beam', was an iconic long-necked sauropod from the Late Jurassic of North America, recognized by its characteristic double-beamed chevron bones in its tail. This massive herbivore measured around 25 meters long and weighed 13 tons.",
+      "size": "25 meters long",
+      "weight": "13 tons",
+      "diet": "herbivore",
+      "location": "North America",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/08/Diplodocus_carnegii.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Huayangosaurus",
+      "description": "Huayangosaurus was an early stegosaurian dinosaur from the Middle Jurassic of China, living around 165 million years ago. At just 4 meters long and 500 kg, this herbivore was much smaller than its famous relative, Stegosaurus.",
+      "size": "4 meters long",
+      "weight": "500 kg",
+      "diet": "herbivore",
+      "location": "Asia",
+      "image": "https://en.wikipedia.org/wiki/Huayangosaurus#/media/File:Huayangosaurus_BW.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Kentrosaurus",
+      "description": "Kentrosaurus was a relatively small stegosaurid from the Late Jurassic of Tanzania, Africa. This herbivore, about 4 meters long and weighing 1 ton, was characterized by its distinctive plates and spikes along its back and tail.",
+      "size": "4 meters long",
+      "weight": "1 ton",
+      "diet": "herbivore",
+      "location": "Africa",
+      "image": "https://en.wikipedia.org/wiki/Kentrosaurus#/media/File:Kentrosaurus_aethiopicus.png"
+    },
+    {
+      "id": 14,
+      "name": "Lesothosaurus",
+      "description": "Lesothosaurus was a well-preserved early ornithischian dinosaur from the Early Jurassic of South Africa and Lesotho. This herbivore, about 2 meters long and weighing 15 kg, provides valuable insights into the origins of its group.",
+      "size": "2 meters long",
+      "weight": "15 kg",
+      "diet": "herbivore",
+      "location": "Africa",
+      "image": "https://en.wikipedia.org/wiki/Lesothosaurus#/media/File:Lesothosaurus_diagnosticus.png"
+    },
+    {
+      "id": 15,
+      "name": "Megalosaurus",
+      "description": "Megalosaurus was a large carnivorous theropod from the Middle Jurassic of Southern England. Although various fossils have been attributed to it, definitive remains date to the late Middle Jurassic in Oxfordshire. This predator was about 6 meters long and weighed 1 ton.",
+      "size": "6 meters long",
+      "weight": "1 ton",
+      "diet": "carnivore",
+      "location": "Europe (Southern England)",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Megalosaurus_dinosaur.png/500px-Megalosaurus_dinosaur.png"
+    },
+    {
+      "id": 16,
+      "name": "Metriacanthosaurus",
+      "description": "Metriacanthosaurus was a metriacanthosaurid dinosaur from the Late Jurassic Oxford Clay Formation of England, dating back around 160 million years. This carnivore, about 8 meters long and weighing 1.5 tons, is the only named metriacanthosaurid found outside Asia.",
+      "size": "8 meters long",
+      "weight": "1.5 tons",
+      "diet": "carnivore",
+      "location": "Europe",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Metriacanthosaurus.jpg/500px-Metriacanthosaurus.jpg"
+    },
+    {
+      "id": 17,
+      "name": "Sarcosaurus",
+      "description": "Sarcosaurus was a basal neotheropod dinosaur from the Early Jurassic of England (and possibly Ireland and Scotland), living around 199-196 million years ago. This carnivore was relatively small, at about 3.5 meters long and weighing 55 kg.",
+      "size": "3.5 meters long",
+      "weight": "55 kg",
+      "diet": "carnivore",
+      "location": "Europe (England)",
+      "image": "https://en.wikipedia.org/wiki/File:Sarcosaurus_life_restoration.jpg"
+    },
+    {
+      "id": 18,
+      "name": "Saurophaganax",
+      "description": "Saurophaganax is a large, somewhat debated genus of saurischian dinosaur, possibly a sauropod, from the Late Jurassic Morrison Formation of Oklahoma, United States. This substantial carnivore was estimated to be 10 meters long and weigh 3 tons.",
+      "size": "10 meters long",
+      "weight": "3 tons",
+      "diet": "carnivore",
+      "location": "North America",
+      "image": "https://www.paleontologyworld.com/sites/default/files/Saurophaganax%20%20BBC%20Planet%20Dinosaur.png"
+    },
+    {
+      "id": 19,
+      "name": "Stegosaurus",
+      "description": "Stegosaurus was an iconic herbivorous armored dinosaur from the Late Jurassic, found in North America, Europe, and Asia. Its name, 'roof lizard', refers to the distinctive kite-shaped plates along its back and sharp tail spikes. It measured about 7 meters long and weighed 4 tons.",
+      "size": "7 meters long",
+      "weight": "4 tons",
+      "diet": "herbivore",
+      "location": "North America, Europe, Asia",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Stegosaurus_stenops_Life_Reconstruction.png"
+    },
+    {
+      "id": 20,
+      "name": "Vulcanodon",
+      "description": "Vulcanodon was an early sauropod dinosaur from the Early Jurassic of southern Africa, discovered in Zimbabwe in 1969. For decades, it was considered the earliest known sauropod. This herbivore was about 6 meters long and weighed 3 tons.",
+      "size": "6 meters long",
+      "weight": "3 tons",
+      "diet": "herbivore",
+      "location": "Africa",
+      "image": "https://www.activewild.com/wp-content/uploads/2018/12/Vulcanodon.jpg"
+    }
+  ]
+}

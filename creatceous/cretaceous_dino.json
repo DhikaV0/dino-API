@@ -1,0 +1,204 @@
+{
+  "cretaceous_dinosaurs": [
+    {
+      "id": 1,
+      "name": "Abelisaurus",
+      "description": "Abelisaurus, a predatory abelisaurid theropod, roamed South America during the Late Cretaceous (Campanian stage). This bipedal carnivore is known from a partial skull, suggesting it reached about 7.4 meters in length and weighed around 1.5 tons.",
+      "size": "7.4 meters long",
+      "weight": "1.5 tons",
+      "diet": "carnivore",
+      "location": "Argentina",
+      "image": "https://en.wikipedia.org/wiki/Abelisaurus#/media/File:Abelisaurus_comahuensis_jmallon.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Albertosaurus",
+      "description": "Albertosaurus was a large tyrannosaurid theropod that lived in northwestern North America during the late Late Cretaceous, around 71 million years ago. This powerful carnivore could reach 9 meters in length and weigh about 1.7 tons.",
+      "size": "9 meters long",
+      "weight": "1.7 tons",
+      "diet": "carnivore",
+      "location": "Canada",
+      "image": "https://en.wikipedia.org/wiki/Albertosaurus#/media/File:Albertosaurus_NT_small.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Ankylosaurus",
+      "description": "Ankylosaurus, an iconic armored dinosaur, lived at the very end of the Cretaceous Period in western North America. Named for its 'fused lizard' appearance, this herbivore was about 6 meters long and weighed 4 tons, making it one of the last non-avian dinosaurs.",
+      "size": "6 meters long",
+      "weight": "4 tons",
+      "diet": "herbivore",
+      "location": "North America",
+      "image": "https://en.wikipedia.org/wiki/Ankylosaurus#/media/File:Ankylosaurus_magniventris_by_sphenaphinae.png"
+    },
+    {
+      "id": 4,
+      "name": "Argentinosaurus",
+      "description": "Argentinosaurus, meaning 'lizard from Argentina', was a colossal sauropod from the Late Cretaceous of Argentina. Known from fragmentary remains, it's considered one of the largest land animals ever, estimated at 30-35 meters long and weighing 65-80 tons.",
+      "size": "30-35 meters long",
+      "weight": "65-80 tons",
+      "diet": "herbivore",
+      "location": "Argentina",
+      "image": "https://en.wikipedia.org/wiki/Argentinosaurus#/media/File:Argentinosaurus_BW.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Baryonyx",
+      "description": "Baryonyx was a unique theropod dinosaur from the Early Cretaceous of England, living around 130-125 million years ago. Discovered in 1983, this large, fish-eating carnivore was about 9 meters long and weighed 1.5 tons.",
+      "size": "9 meters long",
+      "weight": "1.5 tons",
+      "diet": "carnivore (fish-eater)",
+      "location": "England",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Baryonyx_walkeri_restoration.jpg/500px-Baryonyx_walkeri_restoration.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Deinocheirus",
+      "description": "Deinocheirus was a massive ornithomimosaur that lived in Mongolia during the Late Cretaceous, around 70 million years ago. Initially known from large arms, subsequent discoveries revealed a unique, omnivorous dinosaur around 11 meters long and weighing 6 tons.",
+      "size": "11 meters long",
+      "weight": "6 tons",
+      "diet": "omnivore",
+      "location": "Mongolia",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Hypothetical_Deinocheirus.jpg/500px-Hypothetical_Deinocheirus.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Giganotosaurus",
+      "description": "Giganotosaurus was a gigantic theropod dinosaur from the Late Cretaceous of Argentina, living approximately 99.6 to 95 million years ago. This formidable carnivore rivaled T. rex in size, reaching 12 meters long and weighing 8 tons.",
+      "size": "12 meters long",
+      "weight": "8 tons",
+      "diet": "carnivore",
+      "location": "Argentina",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Giganotos_Db.jpg/500px-Giganotos_Db.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Irritator",
+      "description": "Irritator is a spinosaurid dinosaur discovered in Brazil's Early Cretaceous period, around 113 to 110 million years ago. Known from a nearly complete skull, this carnivore was about 8 meters long and weighed 1.5 tons.",
+      "size": "8 meters long",
+      "weight": "1.5 tons",
+      "diet": "carnivore",
+      "location": "Brazil",
+      "image": "https://en.wikipedia.org/wiki/Irritator#/media/File:Irritator_challengeri_by_PaleoGeek.png/2"
+    },
+    {
+      "id": 9,
+      "name": "Majungasaurus",
+      "description": "Majungasaurus was an abelisaurid theropod that lived in Madagascar at the very end of the Cretaceous Period, from 70 to 66 million years ago. This carnivore was about 6 meters long and weighed 1 ton, being one of the last non-avian dinosaurs.",
+      "size": "6 meters long",
+      "weight": "1 ton",
+      "diet": "carnivore",
+      "location": "Madagascar",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Majungasaurus_size_reference.png/500px-Majungasaurus_size_reference.png"
+    },
+    {
+      "id": 10,
+      "name": "Mapusaurus",
+      "description": "Mapusaurus was a giant carcharodontosaurid dinosaur from the Late Cretaceous of Argentina, discovered between 1997 and 2001. This massive carnivore could reach 12 meters in length and weigh 4 tons.",
+      "size": "12 meters long",
+      "weight": "4 tons",
+      "diet": "carnivore",
+      "location": "Argentina",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Mapusaurus_Roseae_restoration.png/500px-Mapusaurus_Roseae_restoration.png"
+    },
+    {
+      "id": 11,
+      "name": "Pachycephalosaurus",
+      "description": "Pachycephalosaurus, known for its distinctive thick skull dome, was a pachycephalosaurid dinosaur from the Late Cretaceous of western North America. This herbivore, about 4.5 meters long and weighing 450 kg, lived during the Maastrichtian age.",
+      "size": "4.5 meters long",
+      "weight": "450 kg",
+      "diet": "herbivore",
+      "location": "North America (Wyoming)",
+      "image": "https://en.wikipedia.org/wiki/Pachycephalosaurus#/media/File:Pachycephalosaurus_Reconstruction.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Parasaurolophus",
+      "description": "Parasaurolophus was a 'duck-billed' hadrosaurid dinosaur from the Late Cretaceous of western North America, living around 76.9-73.5 million years ago. This herbivore is famous for its elongated, hollow crest.",
+      "size": "10 meters long",
+      "weight": "5 tons",
+      "diet": "herbivore",
+      "location": "North America",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Parasaurolophuspic_steveoc.jpg/500px-Parasaurolophuspic_steveoc.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Pinacosaurus",
+      "description": "Pinacosaurus was an ankylosaurid dinosaur from the Late Cretaceous of Mongolia and China. This armored herbivore, about 4 meters long and weighing 2 tons, is notable for its skull armor and lived across Asia.",
+      "size": "4 meters long",
+      "weight": "2 tons",
+      "diet": "herbivore",
+      "location": "Mongolia, China",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Pinacosaurus_Jack_Wood_2017_flipped_transparent.png/500px-Pinacosaurus_Jack_Wood_2017_flipped_transparent.png"
+    },
+    {
+      "id": 14,
+      "name": "Pteranodon",
+      "description": "Pteranodon was a large pterosaur from the Late Cretaceous of North America, known for its impressive wingspan exceeding 6 meters. This flying reptile was a fish-eating carnivore, soaring over ancient Kansas, Nebraska, and Wyoming.",
+      "size": "5 meters wingspan",
+      "weight": "50 kg",
+      "diet": "carnivore (fish)",
+      "location": "North America",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Pteranodon_longiceps_mmartyniuk_wiki.png/500px-Pteranodon_longiceps_mmartyniuk_wiki.png"
+    },
+    {
+      "id": 15,
+      "name": "Rajasaurus",
+      "description": "Rajasaurus was a carnivorous abelisaurid theropod from the Late Cretaceous of India, specifically the Narmada River Valley. This impressive predator was about 11 meters long and weighed 4 tons.",
+      "size": "11 meters long",
+      "weight": "4 tons",
+      "diet": "carnivore",
+      "location": "India",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Rajasaurus_restoration.jpg/500px-Rajasaurus_restoration.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Spinosaurus",
+      "description": "Spinosaurus was an enormous spinosaurid theropod from North Africa during the Late Cretaceous, around 100 to 94 million years ago. Famous for its large sail, this piscivorous (fish-eating) carnivore was one of the largest predatory dinosaurs, reaching 15 meters in length and weighing 6 tons.",
+      "size": "15 meters long",
+      "weight": "6 tons",
+      "diet": "carnivore (piscivore)",
+      "location": "North Africa (Egypt, Morocco, Tunisia)",
+      "image": "https://en.wikipedia.org/wiki/Spinosaurus#/media/File:Life_reconstruction_of_Spinosaurus_aegyptiacus.png"
+    },
+    {
+      "id": 17,
+      "name": "Therizinosaurus",
+      "description": "Therizinosaurus was a very large therizinosaurid dinosaur from the Late Cretaceous of Mongolia, approximately 70 million years ago. Known for its exceptionally long claws, this unique dinosaur was a herbivore, measuring around 10 meters long and weighing 5 tons.",
+      "size": "10 meters long",
+      "weight": "5 tons",
+      "diet": "herbivore",
+      "location": "Mongolia",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Therizinosaurus_Restoration.png/500px-Therizinosaurus_Restoration.png"
+    },
+    {
+      "id": 18,
+      "name": "Triceratops",
+      "description": "Triceratops, a well-known chasmosaurine ceratopsian, lived in western North America at the very end of the Late Cretaceous, around 68 to 66 million years ago. This powerful herbivore, famous for its three horns and bony frill, was among the last non-avian dinosaurs before the K-Pg extinction event. It was about 9 meters long and weighed 10 tons.",
+      "size": "9 meters long",
+      "weight": "10 tons",
+      "diet": "herbivore",
+      "location": "North America",
+      "image": "https://en.wikipedia.org/wiki/Triceratops#/media/File:Triceratops_horridus.png"
+    },
+    {
+      "id": 19,
+      "name": "Tyrannosaurus rex",
+      "description": "Tyrannosaurus rex, often simply T. rex, was a formidable large theropod and one of the most recognizable dinosaurs. This apex carnivore roamed western North America during the Late Cretaceous, reaching 12 meters in length and weighing 9 tons.",
+      "size": "12 meters long",
+      "weight": "9 tons",
+      "diet": "carnivore",
+      "location": "North America",
+      "image": "https://en.wikipedia.org/wiki/Tyrannosaurus#/media/File:Tyrannosaurus-rex-Profile-steveoc86_(coloured)(mirror).png"
+    },
+    {
+      "id": 20,
+      "name": "Velociraptor",
+      "description": "Velociraptor was a small, agile dromaeosaurid dinosaur from the Late Cretaceous of Asia, specifically Mongolia, living around 75 to 71 million years ago. Despite its small size (2 meters long, 18 kg), it was a fierce carnivore, known for its sharp claws and intelligence.",
+      "size": "2 meters long",
+      "weight": "18 kg",
+      "diet": "carnivore",
+      "location": "Mongolia",
+      "image": "https://en.wikipedia.org/wiki/Velociraptor#/media/File:Velociraptor_mongoliensis.jpg"
+    }
+  ]
+}
