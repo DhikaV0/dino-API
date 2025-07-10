@@ -8,9 +8,9 @@ Each era has its own JSON file containing dinosaur data. You can access them dir
 
 | Era         | JSON URL                                                                                            |
 |-------------|-----------------------------------------------------------------------------------------------------|
-| Triassic    | [`/triassic/triassic.json`](https://dhikav0.github.io/dino-api/triassic/triassic_dino.json)         |
-| Jurassic    | [`/jurassic/jurassic.json`](https://dhikav0.github.io/dino-api/jurassic/jurassic_dino.json)         |
-| Cretaceous  | [`/cretaceous/cretaceous.json`](https://dhikav0.github.io/dino-api/cretaceous/cretaceous_dino.json) |
+| Triassic    | [`/triassic/triassic.json`](https://dhikav0.github.io/dino-API/triassic/triassic_dino.json)         |
+| Jurassic    | [`/jurassic/jurassic.json`](https://dhikav0.github.io/dino-API/jurassic/jurassic_dino.json)         |
+| Cretaceous  | [`/cretaceous/cretaceous.json`](https://dhikav0.github.io/dino-API/cretaceous/cretaceous_dino.json) |
 
 > ℹ️ JSON files include basic info such as name, description, size, diet, estimated weight, time period, fossil location, and image source.
 
