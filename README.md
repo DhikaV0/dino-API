@@ -30,7 +30,7 @@ All descriptive texts have been rewritten or paraphrased for clarity and consist
 
 You're welcome to use this dataset as long as you include attribution like:
 
-> Dinosaur data sourced from [Dinosaur Era API](https://DhikaV0.github.io/dino-api)  
+> Dinosaur data sourced from [Dinosaur Era API]([https://DhikaV0.github.io/dino-api](https://github.com/DhikaV0/dino-API))  
 > Image sources: Wikipedia/Wikimedia Commons
 
 ## 🚀 Contribution
