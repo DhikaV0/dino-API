@@ -8,7 +8,7 @@
       "weight": "1.5 tons",
       "diet": "carnivore",
       "location": "Argentina",
-      "image": "https://en.wikipedia.org/wiki/Abelisaurus#/media/File:Abelisaurus_comahuensis_jmallon.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Abelisaurus_comahuensis_jmallon.jpg"
     },
     {
       "id": 2,
@@ -18,7 +18,7 @@
       "weight": "1.7 tons",
       "diet": "carnivore",
       "location": "Canada",
-      "image": "https://en.wikipedia.org/wiki/Albertosaurus#/media/File:Albertosaurus_NT_small.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/94/Albertosaurus_NT_small.jpg"
     },
     {
       "id": 3,
@@ -28,7 +28,7 @@
       "weight": "4 tons",
       "diet": "herbivore",
       "location": "North America",
-      "image": "https://en.wikipedia.org/wiki/Ankylosaurus#/media/File:Ankylosaurus_magniventris_by_sphenaphinae.png"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Ankylosaurus_magniventris_by_sphenaphinae.png"
     },
     {
       "id": 4,
@@ -38,7 +38,7 @@
       "weight": "65-80 tons",
       "diet": "herbivore",
       "location": "Argentina",
-      "image": "https://en.wikipedia.org/wiki/Argentinosaurus#/media/File:Argentinosaurus_BW.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Argentinosaurus_BW.jpg"
     },
     {
       "id": 5,
@@ -78,7 +78,7 @@
       "weight": "1.5 tons",
       "diet": "carnivore",
       "location": "Brazil",
-      "image": "https://en.wikipedia.org/wiki/Irritator#/media/File:Irritator_challengeri_by_PaleoGeek.png/2"
+      "image": "https://th.bing.com/th/id/R.ee03c5ea0ad9feeb0780b06e4758bfdd?rik=3PuWLCfFaeMZjw&riu=http%3a%2f%2fimages4.fanpop.com%2fimage%2fphotos%2f22200000%2fIrritator-dinosaurs-22232786-700-368.jpg&ehk=v2GNF%2bGL06m9nqN35NHSEjI0fBEKgc68%2bXPT8%2fwYsRw%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1"
     },
     {
       "id": 9,
@@ -108,7 +108,7 @@
       "weight": "450 kg",
       "diet": "herbivore",
       "location": "North America (Wyoming)",
-      "image": "https://en.wikipedia.org/wiki/Pachycephalosaurus#/media/File:Pachycephalosaurus_Reconstruction.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Pachycephalosaurus_Reconstruction.jpg"
     },
     {
       "id": 12,
@@ -158,7 +158,7 @@
       "weight": "6 tons",
       "diet": "carnivore (piscivore)",
       "location": "North Africa (Egypt, Morocco, Tunisia)",
-      "image": "https://en.wikipedia.org/wiki/Spinosaurus#/media/File:Life_reconstruction_of_Spinosaurus_aegyptiacus.png"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Life_reconstruction_of_Spinosaurus_aegyptiacus.png"
     },
     {
       "id": 17,
@@ -178,7 +178,7 @@
       "weight": "10 tons",
       "diet": "herbivore",
       "location": "North America",
-      "image": "https://en.wikipedia.org/wiki/Triceratops#/media/File:Triceratops_horridus.png"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/08/Triceratops_horridus.png"
     },
     {
       "id": 19,
@@ -188,7 +188,7 @@
       "weight": "9 tons",
       "diet": "carnivore",
       "location": "North America",
-      "image": "https://en.wikipedia.org/wiki/Tyrannosaurus#/media/File:Tyrannosaurus-rex-Profile-steveoc86_(coloured)(mirror).png"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Tyrannosaurus-rex-Profile-steveoc86_%28coloured%29%28mirror%29.png"
     },
     {
       "id": 20,
@@ -198,7 +198,7 @@
       "weight": "18 kg",
       "diet": "carnivore",
       "location": "Mongolia",
-      "image": "https://en.wikipedia.org/wiki/Velociraptor#/media/File:Velociraptor_mongoliensis.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/55/Velociraptor_Restoration.png"
     }
   ]
 }
