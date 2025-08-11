@@ -8,7 +8,7 @@
       "weight": "2.3 tons",
       "diet": "carnivore",
       "location": "North America, Europe, Africa",
-      "image": "https://i0.wp.com/onlydinosaurs.com/wp-content/uploads/2021/10/An-orange-Allosaurs-is-walking-on-the-grass-1536x864.jpg"
+      "image": "https://i0.wp.com/onlydinosaurs.com/wp-con  tent/uploads/2021/10/An-orange-Allosaurs-is-walking-on-the-grass-1536x864.jpg"
     },
     {
       "id": 2,
@@ -28,7 +28,7 @@
       "weight": "1 kg",
       "diet": "carnivore",
       "location": "Europe",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Archaeopteryx_UDL.png/1920px-Archaeopteryx_UDL.png"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/41/Archaeopteryx_TD.png"
     },
     {
       "id": 4,
@@ -58,7 +58,7 @@
       "weight": "45 tons",
       "diet": "herbivore",
       "location": "North America",
-      "image": "https://en.wikipedia.org/wiki/Camarasaurus#/media/File:Camarasaurs1.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Camarasaurs1.jpg"
     },
     {
       "id": 7,
@@ -68,7 +68,7 @@
       "weight": "1 ton",
       "diet": "herbivore",
       "location": "North America, Europe",
-      "image": "https://en.wikipedia.org/wiki/Camptosaurus#/media/File:Camptosaurus.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Camptosaurus.jpg"
     },
     {
       "id": 8,
@@ -78,7 +78,7 @@
       "weight": "600 kg",
       "diet": "carnivore",
       "location": "North America",
-      "image": "https://en.wikipedia.org/wiki/Ceratosaurus#/media/File:Ceratosaurus_nasicornis_DB.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/23/Ceratosaurus_nasicornis_DB.jpg"
     },
     {
       "id": 9,
@@ -88,7 +88,7 @@
       "weight": "2 kg",
       "diet": "carnivore",
       "location": "Europe",
-      "image": "https://en.wikipedia.org/wiki/Compsognathus#/media/File:Compsognathus_BW.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Compsognathus_BW.jpg"
     },
     {
       "id": 10,
@@ -98,7 +98,7 @@
       "weight": "400 kg",
       "diet": "carnivore",
       "location": "North America",
-      "image": "https://en.wikipedia.org/wiki/Dilophosaurus#/media/File:Dilophosaurus_wetherilli.PNG"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Dilophosaurus_wetherilli.PNG"
     },
     {
       "id": 11,
@@ -118,7 +118,7 @@
       "weight": "500 kg",
       "diet": "herbivore",
       "location": "Asia",
-      "image": "https://en.wikipedia.org/wiki/Huayangosaurus#/media/File:Huayangosaurus_BW.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Huayangosaurus_BW.jpg"
     },
     {
       "id": 13,
@@ -128,7 +128,7 @@
       "weight": "1 ton",
       "diet": "herbivore",
       "location": "Africa",
-      "image": "https://en.wikipedia.org/wiki/Kentrosaurus#/media/File:Kentrosaurus_aethiopicus.png"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Kentrosaurus_aethiopicus.png"
     },
     {
       "id": 14,
@@ -138,7 +138,7 @@
       "weight": "15 kg",
       "diet": "herbivore",
       "location": "Africa",
-      "image": "https://en.wikipedia.org/wiki/Lesothosaurus#/media/File:Lesothosaurus_diagnosticus.png"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Lesothosaurus_diagnosticus.png"
     },
     {
       "id": 15,
@@ -168,7 +168,7 @@
       "weight": "55 kg",
       "diet": "carnivore",
       "location": "Europe (England)",
-      "image": "https://en.wikipedia.org/wiki/File:Sarcosaurus_life_restoration.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Sarcosaurus_life_restoration.jpg"
     },
     {
       "id": 18,
