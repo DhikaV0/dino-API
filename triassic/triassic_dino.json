@@ -8,6 +8,7 @@
       "weight": "10 kg",
       "diet": "omnivore",
       "location": "India (formerly South America in Gondwana)",
+      "first_found": "1987",
       "image": "https://upload.wikimedia.org/wikipedia/commons/0/06/Alwalkeria_maleriensis.jpg"
     },
     {
@@ -18,6 +19,7 @@
       "weight": "250 kg",
       "diet": "herbivore",
       "location": "Europe (England)",
+      "first_found": "1893",
       "image": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Asylosaurus_NT.jpg"
     },
     {
@@ -28,6 +30,7 @@
       "weight": "20 kg",
       "diet": "carnivore",
       "location": "North America",
+      "first_found": "1998",
       "image": "https://upload.wikimedia.org/wikipedia/commons/3/30/Camposaurus_arizonensis.png"
     },
     {
@@ -38,6 +41,7 @@
       "weight": "25 kg",
       "diet": "carnivore",
       "location": "North America",
+      "first_found": "1985",
       "image": "https://upload.wikimedia.org/wikipedia/commons/1/14/Chindesaurus_bryansmalli.png"
     },
     {
@@ -48,6 +52,7 @@
       "weight": "20 kg",
       "diet": "carnivore",
       "location": "North America",
+      "first_found": "1881",
       "image": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Coelophysis_Jeff_Martz.jpg"
     },
     {
@@ -58,6 +63,7 @@
       "weight": "50 kg",
       "diet": "herbivore",
       "location": "South America",
+      "first_found": "1978",
       "image": "https://images.fineartamerica.com/images-medium-large-5/coloradisaurus-eating-deagostiniuigscience-photo-library.jpg"
     },
     {
@@ -68,6 +74,7 @@
       "weight": "20 kg",
       "diet": "carnivore",
       "location": "North America",
+      "first_found": "2011",
       "image": "https://upload.wikimedia.org/wikipedia/commons/2/21/Daemonosaurus_chauliodus.jpg"
     },
     {
@@ -78,6 +85,7 @@
       "weight": "5 kg",
       "diet": "carnivore",
       "location": "North America, South America",
+      "first_found": "2007",
       "image": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Dromomeron_BW.jpg"
     },
     {
@@ -88,6 +96,7 @@
       "weight": "5 kg",
       "diet": "herbivore",
       "location": "South Africa",
+      "first_found": "2006",
       "image": "https://upload.wikimedia.org/wikipedia/commons/7/71/Eocursor_BW.jpg"
     },
     {
@@ -98,6 +107,7 @@
       "weight": "10 kg",
       "diet": "carnivore",
       "location": "South America",
+      "first_found": "1991",
       "image": "https://www.thoughtco.com/thmb/X-ysADYDqD1QvZT299j0SbMSCs0=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-678827019-58ddec103df78c5162cc4cfc.jpg"
     },
     {
@@ -108,6 +118,7 @@
       "weight": "150 kg",
       "diet": "carnivore",
       "location": "North America",
+      "first_found": "1997",
       "image": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Gojirasaurus_BW.jpg"
     },
     {
@@ -118,6 +129,7 @@
       "weight": "350 kg",
       "diet": "carnivore",
       "location": "South America",
+      "first_found": "1959",
       "image": "https://upload.wikimedia.org/wikipedia/commons/archive/8/86/20180826003556%21Herrerasaurus_ischigualastensis_Illustration.jpg"
     },
     {
@@ -128,6 +140,7 @@
       "weight": "150 kg",
       "diet": "carnivore",
       "location": "Europe",
+      "first_found": "1934",
       "image": "https://upload.wikimedia.org/wikipedia/commons/0/00/Liliensternus_NT.jpg"
     },
     {
@@ -138,6 +151,7 @@
       "weight": "50 kg",
       "diet": "herbivore",
       "location": "Asia",
+      "first_found": "1975",
       "image": "https://upload.wikimedia.org/wikipedia/commons/3/31/Lotosaurus_BW.jpg"
     },
     {
@@ -148,6 +162,7 @@
       "weight": "5 kg",
       "diet": "carnivore",
       "location": "South America",
+      "first_found": "1992",
       "image": "https://upload.wikimedia.org/wikipedia/commons/2/21/Marasuchus.jpg"
     },
     {
@@ -158,6 +173,7 @@
       "weight": "1300 kg",
       "diet": "herbivore",
       "location": "South Africa",
+      "first_found": "1924",
       "image": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Melanorosaurus_readi_steveoc.jpg"
     },
     {
@@ -168,6 +184,7 @@
       "weight": "50 kg",
       "diet": "herbivore",
       "location": "Europe",
+      "first_found": "2007",
       "image": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Pantydraco_BW.jpg"
     },
     {
@@ -178,6 +195,7 @@
       "weight": "2 kg",
       "diet": "herbivore",
       "location": "South America",
+      "first_found": "1967",
       "image": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Pisanosaurus.jpg"
     },
     {
@@ -188,6 +206,7 @@
       "weight": "800 kg",
       "diet": "herbivore",
       "location": "Europe",
+      "first_found": "1834",
       "image": "https://upload.wikimedia.org/wikipedia/commons/7/77/Plateosaurus_engelhardti.png"
     },
     {
@@ -198,6 +217,7 @@
       "weight": "12 kg",
       "diet": "carnivore",
       "location": "South America",
+      "first_found": "1970",
       "image": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Staurikosaurus-mingau-colour.png"
     }
   ]

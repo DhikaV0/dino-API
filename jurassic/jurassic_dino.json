@@ -8,6 +8,7 @@
       "weight": "2.3 tons",
       "diet": "carnivore",
       "location": "North America, Europe, Africa",
+      "first_found": "1877",
       "image": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Allosaurus_Revised.jpg"
     },
     {
@@ -18,6 +19,7 @@
       "weight": "20 tons",
       "diet": "herbivore",
       "location": "North America",
+      "first_found": "1877",
       "image": "https://upload.wikimedia.org/wikipedia/commons/4/44/Apatosaurus_louisae_by_durbed.jpg"
     },
     {
@@ -28,6 +30,7 @@
       "weight": "1 kg",
       "diet": "carnivore",
       "location": "Europe",
+      "first_found": "1861",
       "image": "https://upload.wikimedia.org/wikipedia/commons/4/41/Archaeopteryx_TD.png"
     },
     {
@@ -38,6 +41,7 @@
       "weight": "50 tons",
       "diet": "herbivore",
       "location": "North America, Africa",
+      "first_found": "1903",
       "image": "https://upload.wikimedia.org/wikipedia/commons/0/07/Brachiosaurus_altithorax_side_profile.png"
     },
     {
@@ -48,6 +52,7 @@
       "weight": "16 tons",
       "diet": "herbivore",
       "location": "North America",
+      "first_found": "1879",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Brontosaurus_by_Tom_Parker.png/1920px-Brontosaurus_by_Tom_Parker.png"
     },
     {
@@ -58,6 +63,7 @@
       "weight": "45 tons",
       "diet": "herbivore",
       "location": "North America",
+      "first_found": "1877",
       "image": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Camarasaurs1.jpg"
     },
     {
@@ -68,6 +74,7 @@
       "weight": "1 ton",
       "diet": "herbivore",
       "location": "North America, Europe",
+      "first_found": "1879",
       "image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Camptosaurus.jpg"
     },
     {
@@ -78,6 +85,7 @@
       "weight": "600 kg",
       "diet": "carnivore",
       "location": "North America",
+      "first_found": "1883",
       "image": "https://upload.wikimedia.org/wikipedia/commons/2/23/Ceratosaurus_nasicornis_DB.jpg"
     },
     {
@@ -88,6 +96,7 @@
       "weight": "2 kg",
       "diet": "carnivore",
       "location": "Europe",
+      "first_found": "1859",
       "image": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Compsognathus_BW.jpg"
     },
     {
@@ -98,6 +107,7 @@
       "weight": "400 kg",
       "diet": "carnivore",
       "location": "North America",
+      "first_found": "1940",
       "image": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Dilophosaurus_wetherilli.PNG"
     },
     {
@@ -108,6 +118,7 @@
       "weight": "13 tons",
       "diet": "herbivore",
       "location": "North America",
+      "first_found": "1877",
       "image": "https://upload.wikimedia.org/wikipedia/commons/0/08/Diplodocus_carnegii.jpg"
     },
     {
@@ -118,6 +129,7 @@
       "weight": "500 kg",
       "diet": "herbivore",
       "location": "Asia",
+      "first_found": "1879",
       "image": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Huayangosaurus_BW.jpg"
     },
     {
@@ -128,6 +140,7 @@
       "weight": "1 ton",
       "diet": "herbivore",
       "location": "Africa",
+      "first_found": "1909",
       "image": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Kentrosaurus_aethiopicus.png"
     },
     {
@@ -138,6 +151,7 @@
       "weight": "15 kg",
       "diet": "herbivore",
       "location": "Africa",
+      "first_found": "1978",
       "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Lesothosaurus_diagnosticus.png"
     },
     {
@@ -148,6 +162,7 @@
       "weight": "1 ton",
       "diet": "carnivore",
       "location": "Europe (Southern England)",
+      "first_found": "1824",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Megalosaurus_dinosaur.png/500px-Megalosaurus_dinosaur.png"
     },
     {
@@ -158,6 +173,7 @@
       "weight": "1.5 tons",
       "diet": "carnivore",
       "location": "Europe",
+      "first_found": "1923",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Metriacanthosaurus.jpg/500px-Metriacanthosaurus.jpg"
     },
     {
@@ -168,6 +184,7 @@
       "weight": "55 kg",
       "diet": "carnivore",
       "location": "Europe (England)",
+      "first_found": "1908",
       "image": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Sarcosaurus_life_restoration.jpg"
     },
     {
@@ -178,6 +195,7 @@
       "weight": "3 tons",
       "diet": "carnivore",
       "location": "North America",
+      "first_found": "1931",
       "image": "https://www.paleontologyworld.com/sites/default/files/Saurophaganax%20%20BBC%20Planet%20Dinosaur.png"
     },
     {
@@ -188,6 +206,7 @@
       "weight": "4 tons",
       "diet": "herbivore",
       "location": "North America, Europe, Asia",
+      "first_found": "1877",
       "image": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Stegosaurus_stenops_Life_Reconstruction.png"
     },
     {
@@ -198,6 +217,7 @@
       "weight": "3 tons",
       "diet": "herbivore",
       "location": "Africa",
+      "first_found": "1969",
       "image": "https://www.activewild.com/wp-content/uploads/2018/12/Vulcanodon.jpg"
     }
   ]

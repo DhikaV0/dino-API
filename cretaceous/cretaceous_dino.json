@@ -8,6 +8,7 @@
       "weight": "1.5 tons",
       "diet": "carnivore",
       "location": "Argentina",
+      "first_found": "1985",
       "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Abelisaurus_comahuensis_jmallon.jpg"
     },
     {
@@ -18,6 +19,7 @@
       "weight": "1.7 tons",
       "diet": "carnivore",
       "location": "Canada",
+      "first_found": "1884",
       "image": "https://upload.wikimedia.org/wikipedia/commons/9/94/Albertosaurus_NT_small.jpg"
     },
     {
@@ -28,6 +30,7 @@
       "weight": "4 tons",
       "diet": "herbivore",
       "location": "North America",
+      "first_found": "1908",
       "image": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Ankylosaurus_magniventris_by_sphenaphinae.png"
     },
     {
@@ -38,6 +41,7 @@
       "weight": "65-80 tons",
       "diet": "herbivore",
       "location": "Argentina",
+      "first_found": "1987",
       "image": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Argentinosaurus_BW.jpg"
     },
     {
@@ -48,6 +52,7 @@
       "weight": "1.5 tons",
       "diet": "carnivore (fish-eater)",
       "location": "England",
+      "first_found": "1983",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Baryonyx_walkeri_restoration.jpg/500px-Baryonyx_walkeri_restoration.jpg"
     },
     {
@@ -58,6 +63,7 @@
       "weight": "6 tons",
       "diet": "omnivore",
       "location": "Mongolia",
+      "first_found": "1965",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Hypothetical_Deinocheirus.jpg/500px-Hypothetical_Deinocheirus.jpg"
     },
     {
@@ -68,6 +74,7 @@
       "weight": "8 tons",
       "diet": "carnivore",
       "location": "Argentina",
+      "first_found": "1993",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Giganotos_Db.jpg/500px-Giganotos_Db.jpg"
     },
     {
@@ -78,6 +85,7 @@
       "weight": "1.5 tons",
       "diet": "carnivore",
       "location": "Brazil",
+      "first_found": "1996",
       "image": "https://upload.wikimedia.org/wikipedia/commons/7/70/Irritator_Life_Reconstruction.jpg"
     },
     {
@@ -88,6 +96,7 @@
       "weight": "1 ton",
       "diet": "carnivore",
       "location": "Madagascar",
+      "first_found": "1896",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Majungasaurus_size_reference.png/500px-Majungasaurus_size_reference.png"
     },
     {
@@ -98,6 +107,7 @@
       "weight": "4 tons",
       "diet": "carnivore",
       "location": "Argentina",
+      "first_found": "1997",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Mapusaurus_Roseae_restoration.png/500px-Mapusaurus_Roseae_restoration.png"
     },
     {
@@ -108,6 +118,7 @@
       "weight": "450 kg",
       "diet": "herbivore",
       "location": "North America (Wyoming)",
+      "first_found": "1931",
       "image": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Pachycephalosaurus_Reconstruction.jpg"
     },
     {
@@ -118,6 +129,7 @@
       "weight": "5 tons",
       "diet": "herbivore",
       "location": "North America",
+      "first_found": "1922",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Parasaurolophuspic_steveoc.jpg/500px-Parasaurolophuspic_steveoc.jpg"
     },
     {
@@ -128,6 +140,7 @@
       "weight": "2 tons",
       "diet": "herbivore",
       "location": "Mongolia, China",
+      "first_found": "1923",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Pinacosaurus_Jack_Wood_2017_flipped_transparent.png/500px-Pinacosaurus_Jack_Wood_2017_flipped_transparent.png"
     },
     {
@@ -138,6 +151,7 @@
       "weight": "50 kg",
       "diet": "carnivore (fish)",
       "location": "North America",
+      "first_found": "1871",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Pteranodon_longiceps_mmartyniuk_wiki.png/500px-Pteranodon_longiceps_mmartyniuk_wiki.png"
     },
     {
@@ -148,6 +162,7 @@
       "weight": "4 tons",
       "diet": "carnivore",
       "location": "India",
+      "first_found": "1981",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Rajasaurus_restoration.jpg/500px-Rajasaurus_restoration.jpg"
     },
     {
@@ -158,6 +173,7 @@
       "weight": "6 tons",
       "diet": "carnivore (piscivore)",
       "location": "North Africa (Egypt, Morocco, Tunisia)",
+      "first_found": "1912",
       "image": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Life_reconstruction_of_Spinosaurus_aegyptiacus.png"
     },
     {
@@ -168,6 +184,7 @@
       "weight": "5 tons",
       "diet": "herbivore",
       "location": "Mongolia",
+      "first_found": "1948",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Therizinosaurus_Restoration.png/500px-Therizinosaurus_Restoration.png"
     },
     {
@@ -178,6 +195,7 @@
       "weight": "10 tons",
       "diet": "herbivore",
       "location": "North America",
+      "first_found": "1887",
       "image": "https://upload.wikimedia.org/wikipedia/commons/0/08/Triceratops_horridus.png"
     },
     {
@@ -188,6 +206,7 @@
       "weight": "9 tons",
       "diet": "carnivore",
       "location": "North America",
+      "first_found": "1902",
       "image": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Tyrannosaurus-rex-Profile-steveoc86_%28coloured%29%28mirror%29.png"
     },
     {
@@ -198,6 +217,7 @@
       "weight": "18 kg",
       "diet": "carnivore",
       "location": "Mongolia",
+      "first_found": "1924",
       "image": "https://upload.wikimedia.org/wikipedia/commons/5/55/Velociraptor_Restoration.png"
     }
   ]
