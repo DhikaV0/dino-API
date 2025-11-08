@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Dino API Explorer</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+
+  <style>
+    ::-webkit-scrollbar {
+      width: 8px;
+    }
+    ::-webkit-scrollbar-thumb {
+      background: #c2a57a;
+      border-radius: 10px;
+    }
+  </style>
+</head>
+
+<body class="bg-[#faf6ef] text-[#2f2a26] min-h-screen flex flex-col">
+
+  <!-- Header -->
+  <header class="px-6 py-10">
+    <h1 class="text-4xl font-bold">Dino API</h1>
+    <p class="text-sm mt-2 text-[#6b5d52]">
+      REST API containing dinosaurs from the Triassic, Jurassic, and Cretaceous eras.
+    </p>
+  </header>
+
+  <!-- Content -->
+  <section class="px-6 pb-16 flex flex-col gap-10" id="api-cards"></section>
+
+  <!-- Footer -->
+  <footer class="text-center pb-10 mt-auto">
+    <a href="https://github.com/dhikav0" target="_blank" class="inline-block hover:scale-110 transition">
+      <img src="assets/GitHub_logo.png" class="w-12 h-12 mx-auto opacity-70 hover:opacity-100 transition" />
+    </a>
+  </footer>
+
+  <script>
+    const eras = [
+      {
+        era: "Triassic",
+        url: "https://dhikav0.github.io/dino-API/triassic/triassic_dino.json"
+      },
+      {
+        era: "Jurassic",
+        url: "https://dhikav0.github.io/dino-API/jurassic/jurassic_dino.json"
+      },
+      {
+        era: "Cretaceous",
+        url: "https://dhikav0.github.io/dino-API/cretaceous/cretaceous_dino.json"
+      }
+    ];
+
+    const container = document.getElementById("api-cards");
+
+    eras.forEach(async era => {
+      const card = document.createElement("div");
+      card.className =
+        "bg-white rounded-2xl shadow-lg p-6 border border-[#e8dcc7]";
+
+      card.innerHTML = `
+        <h2 class="text-2xl font-semibold mb-3">${era.era} Era</h2>
+        <p class="mb-2 text-sm text-[#6b5d52]">Endpoint:</p>
+        <a href="${era.url}" class="text-blue-700 underline break-all hover:text-blue-900">
+          ${era.url}
+        </a>
+        <p class="mt-6 mb-2 text-sm text-[#6b5d52]">Preview:</p>
+        <pre class="preview bg-[#232831] text-[#f8f8f2] p-4 rounded-xl text-xs overflow-auto max-h-72">
+        Loading...
+        </pre>
+      `;
+      container.appendChild(card);
+      // Fetch JSON
+      try {
+        const res = await fetch(era.url);
+        const json = await res.json();
+        card.querySelector(".preview").textContent = JSON.stringify(json, null, 2);
+      } catch {
+        card.querySelector(".preview").textContent = "❌ Failed to fetch JSON.";
+      }
+    });
+  </script>
+
+</body>
+</html>
