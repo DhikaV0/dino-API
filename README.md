@@ -6,9 +6,9 @@ Welcome to the **Dinosaur Era API**, a public JSON-based collection of dinosaurs
 
 | Era         | JSON URL                                                                                            |
 |-------------|-----------------------------------------------------------------------------------------------------|
-| Triassic    | [`/triassic/triassic.json`](https://dhikav0.github.io/dino-API/api/triassic.json)         |
-| Cretaceous  | [`/cretaceous/cretaceous.json`](https://dhikav0.github.io/dino-API/api/cretaceous.json)   |
-| Jurassic    | [`/jurassic/jurassic.json`](https://dhikav0.github.io/dino-API/api/jurassic.json)         |
+| Triassic    | [`/api/triassic.json`](https://dhikav0.github.io/dino-API/api/triassic.json)         |
+| Cretaceous  | [`/api/cretaceous.json`](https://dhikav0.github.io/dino-API/api/cretaceous.json)   |
+| Jurassic    | [`/api/jurassic.json`](https://dhikav0.github.io/dino-API/api/jurassic.json)         |
 > ℹ️ JSON files include basic info such as name, description, size, diet, estimated weight, time period, fossil location, and image source.
 
 ## 🧠 Data Usage
